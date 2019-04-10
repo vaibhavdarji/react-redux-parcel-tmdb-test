@@ -1,0 +1,1 @@
+# react-redux-parcel-tmdb-test
